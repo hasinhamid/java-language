@@ -6,7 +6,7 @@ public class abs {
         MyBook mb= new MyBook();
         mb.setTitle(str);
         System.out.println("The title is: "+mb.getTitle());
-
+ 
     }
 }
 abstract class Book{

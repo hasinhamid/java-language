@@ -44,7 +44,7 @@ class ChickenBurger {
         return str;
     }
     public void customizeSpiceLevel( String str){
-        if(str.equals("Less") || str.equals("Spicy")|| str.equals("Naga")){
+        if(str.equals("Less") || str.equals("Spicy")|| str.equals("Naga") || str.equals("Extreme")){
             spiceLevel=str;
             System.out.println("Spice level set to "+spiceLevel);
         }

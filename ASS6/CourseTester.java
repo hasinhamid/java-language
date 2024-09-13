@@ -1,5 +1,3 @@
-import javax.print.DocFlavor.STRING;
-
 public class CourseTester{
     public static void main(String [] args){
       Course c1 = new Course();
